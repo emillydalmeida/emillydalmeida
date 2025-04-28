@@ -3,7 +3,7 @@
 - 🔭 𝒞𝓊rr𝑒𝓃𝓉𝓁𝓎 𝒾𝓃𝓉𝑒𝓇𝓃𝒾𝓃𝑔 𝒶𝓉 𝒥𝒾𝓉 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝓎!
 - 🌱 𝒫𝓊𝓇𝓈𝓊𝒾𝓃𝑔 𝒶 𝐵𝒶𝒸𝒽𝑒𝓁𝑜𝓇’𝓈 𝒾𝓃 𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝒮𝒸𝒾𝑒𝓃𝒸𝑒 𝒶𝓉 𝒯𝒽𝑒 𝒰𝓃𝒾𝓋𝑒𝓇𝓈𝒾𝓉𝓎 𝑜𝒻 𝒞𝑒𝒶𝓇á
 - 💬 𝐼𝓃𝓉𝑒𝓇𝑒𝑠𝓉𝑒𝒹 𝒾𝓃 𝒹𝒶𝓉𝒶𝒷𝒶𝓈𝑒𝓈 𝒶𝓃𝒹 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝓂𝑒𝓃𝓉
-- 📫 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝓂𝑒 𝓋𝒾𝒶 𝑒𝓂𝒶𝒾𝓁: <a href = "mailto:emillydalmeida@gmail.com"></a>
+- 📫 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝓂𝑒 𝓋𝒾𝒶 𝑒𝓂𝒶𝒾𝓁: <a href = "mailto:emillydalmeida@gmail.com">emillydalmeida</a>
 - 😄 𝒮𝒽𝑒/𝒽𝑒𝓇
 
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/47991400/228646628-56b6d968-fc67-4318-923c-f41d4fb4a85b.gif">
