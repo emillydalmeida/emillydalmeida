@@ -18,7 +18,6 @@
 
 ### 𝑀𝓎 𝓈𝑜𝒸𝒾𝒶𝓁 𝓂𝑒𝒹𝒾𝒶 😊
 
-  <a href="https://www.youtube.com/channel/UCfcW44WYsRsGeKWHnqgEriQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/emillydalmeida" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/emyefanny" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:emillydalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
