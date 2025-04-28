@@ -1,10 +1,10 @@
-### 𝒪𝑖𝑖, 𝑚𝑒 𝑐ℎ𝑎𝑚𝑜 𝐸𝑚𝑖𝑙𝑙𝑦 𝒜𝑙𝑚𝑒𝑖𝑑𝑎 :)
+### 𝐻𝑒𝓁𝓁𝑜, 𝓂𝓎 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐸𝓂𝒾𝓁𝓁𝓎 𝐸𝒻𝒶𝓃𝓃𝓎 :)
 
-- 🔭 𝒜𝑡𝑢𝑎𝑙𝑚𝑒𝑛𝑡𝑒 𝑝𝑟𝑜𝑐𝑢𝑟𝑎𝑛𝑑𝑜 𝑢𝑚 𝑒𝑚𝑝𝑟𝑒𝑔𝑜 𝑜𝑢 𝑒𝑠𝑡𝑎𝑔𝑖𝑜 𝑛𝑎 𝑎𝑟𝑒𝑎 𝑑𝑒 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑎ç𝑎𝑜
-- 🌱 𝒞𝑢𝑟𝑠𝑎𝑛𝑑𝑜 𝒞𝑖𝑒𝑛𝑐𝑖𝑎 𝑑𝑎 𝒞𝑜𝑚𝑝𝑢𝑡𝑎ç𝑎𝑜 𝑛𝑎 𝐹𝑒𝑑𝑒𝑟𝑎𝑙 𝑑𝑜 𝒞𝑒𝑎𝑟𝑎
-- 💬 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑠𝑒𝑠 𝑒𝑚 𝑑𝑎𝑡𝑎 𝑏𝑎𝑠𝑒 𝑒 𝑑𝑒𝑣
-- 📫 𝒞𝑜𝑛𝑡𝑎𝑡𝑒-𝑚𝑒 𝑝𝑒𝑙𝑜 𝑒𝑚𝑎𝑖𝑙: 𝑒𝑚𝑖𝑙𝑙𝑦𝑑𝑎𝑙𝑚𝑒𝑖𝑑𝑎@𝑔𝑚𝑎𝑖𝑙.𝑐𝑜𝑚
-- 😄 𝐸𝑙𝑎/𝑑𝑒𝑙𝑎
+- 🔭 𝒞𝓊rr𝑒𝓃𝓉𝓁𝓎 𝒾𝓃𝓉𝑒𝓇𝓃𝒾𝓃𝑔 𝒶𝓉 𝒥𝒾𝓉 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝓎!
+- 🌱 𝒫𝓊𝓇𝓈𝓊𝒾𝓃𝑔 𝒶 𝐵𝒶𝒸𝒽𝑒𝓁𝑜𝓇’𝓈 𝒾𝓃 𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝒮𝒸𝒾𝑒𝓃𝒸𝑒 𝒶𝓉 𝒯𝒽𝑒 𝒰𝓃𝒾𝓋𝑒𝓇𝓈𝒾𝓉𝓎 𝑜𝒻 𝒞𝑒𝒶𝓇á
+- 💬 𝐼𝓃𝓉𝑒𝓇𝑒𝑠𝓉𝑒𝒹 𝒾𝓃 𝒹𝒶𝓉𝒶𝒷𝒶𝓈𝑒𝓈 𝒶𝓃𝒹 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝓂𝑒𝓃𝓉
+- 📫 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝓂𝑒 𝓋𝒾𝒶 𝑒𝓂𝒶𝒾𝓁: 𝑒𝑚𝑖𝑙𝑙𝑦𝑑𝑎𝑙𝑚𝑒𝑖𝑑𝑎@𝑔𝑚𝑎𝑖𝑙.𝑐𝑜𝑚
+- 😄 𝒮𝒽𝑒/𝒽𝑒𝓇
 
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/47991400/228646628-56b6d968-fc67-4318-923c-f41d4fb4a85b.gif">
 
@@ -15,7 +15,7 @@
 
 ##
 
-### 𝑀𝑖𝑛ℎ𝑎𝑠 𝑟𝑒𝑑𝑒𝑠 𝑠𝑜𝑐𝑖𝑎𝑖𝑠 😊
+### 𝑀𝓎 𝓈𝑜𝒸𝒾𝒶𝓁 𝓂𝑒𝒹𝒾𝒶 😊
 
   <a href="https://www.youtube.com/channel/UCfcW44WYsRsGeKWHnqgEriQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/emillydalmeida" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
